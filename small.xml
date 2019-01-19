@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kbyte>
+  <members>
+    <member kuid="1">
+      <nickname>Алексей</nickname>
+      <firstName>Алексей</firstName>
+      <lastName>Немиро</lastName>
+    </member>
+    <member kuid="288">
+      <nickname>Игорь Голов</nickname>
+      <firstName>Игорь</firstName>
+      <lastName>Голов</lastName>
+    </member>
+    <member kuid="1858">
+      <nickname>[i]Pro</nickname>
+      <firstName>Артем</firstName>
+      <lastName>Донцов</lastName>
+    </member>
+    <member kuid="2575">
+      <nickname>Shark1</nickname>
+      <firstName>Виталий</firstName>
+      <lastName />
+    </member>
+  </members>
+</kbyte>

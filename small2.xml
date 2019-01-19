@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kbyte>
+  <members>
+    <member kuid="1">
+      <nickname>Алексей</nickname>
+      <firstName>Алексей</firstName>
+      <lastName>Немиро</lastName>
+      <messages>
+        <message id="1">
+          <subject>Привет мир!</subject>
+          <text>Это тестовое сообщение.</text>
+        </message>
+        <message id="2">
+          <subject>Как работать с XmlReader?</subject>
+          <text>Это текст о том, как работать с XmlReader.</text>
+        </message>
+      </messages>
+    </member>
+    <member kuid="288">
+      <nickname>Игорь Голов</nickname>
+      <firstName>Игорь</firstName>
+      <lastName>Голов</lastName>
+    </member>
+    <member kuid="1858">
+      <nickname>[i]Pro</nickname>
+      <firstName>Артем</firstName>
+      <lastName>Донцов</lastName>
+      <messages>
+        <message id="3">
+          <subject>Еще одно сообщение</subject>
+          <text>Это текст еще одного тестового сообщения.</text>
+        </message>
+      </messages>
+    </member>
+    <member kuid="2575">
+      <nickname>Shark1</nickname>
+      <firstName>Виталий</firstName>
+      <lastName />
+      <messages />
+    </member>
+  </members>
+</kbyte>
